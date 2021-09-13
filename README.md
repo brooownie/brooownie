@@ -1,4 +1,4 @@
-![brooownie](https://raw.githubusercontent.com/brooownie/brooownie/b6652a4d796fbda87746171c2f07980d16a18dab/media/banner.jpg?raw=true)
+![brooownie](https://raw.githubusercontent.com/brooownie/brooownie/main/media/banner.jpg?raw=true)
 <p align="center">
    <a href="https://discord.com/users/852600849779523645" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/ffd63eesvp4odh37vjc4hzep5?si=e889e097d4f34a45" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
