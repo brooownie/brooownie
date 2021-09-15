@@ -1,5 +1,6 @@
 ![brooownie](https://raw.githubusercontent.com/brooownie/brooownie/main/media/banner.jpg?raw=true)
 
+<div align="center">
   <div><img src="https://komarev.com/ghpvc/?username=BetaWile&&label=PROFILE+VIEWS&color=grey"/></div>
 
 <p align="center">
