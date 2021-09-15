@@ -1,4 +1,7 @@
 ![brooownie](https://raw.githubusercontent.com/brooownie/brooownie/main/media/banner.jpg?raw=true)
+
+  <div><img src="https://komarev.com/ghpvc/?username=BetaWile&&label=PROFILE+VIEWS&color=grey"/></div>
+
 <p align="center">
    <a href="https://discord.com/users/852600849779523645" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/ffd63eesvp4odh37vjc4hzep5?si=e889e097d4f34a45" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
