@@ -1,4 +1,4 @@
-[![brooownie](https://raw.githubusercontent.com/brooownie/brooownie/main/media/banner.jpg?raw=true)](https://brxwnie.github.io//)
+[![brooownie](https://raw.githubusercontent.com/brooownie/brooownie/main/media/banner.jpg?raw=true)](brooownie.github.io)
 
 <p align="center">
    <a href="https://discord.com/users/852600849779523645" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
