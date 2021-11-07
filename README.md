@@ -12,7 +12,7 @@ Hi, my name is Marlin and I'm 17. I started software development 1 year ago with
 </div>
 
 <div align="center">
-    <div><img src="https://komarev.com/ghpvc/?username=brxwnie-github-username&color=grey"/></div>
+    <div><img src="https://komarev.com/ghpvc/?username=marlinshu&color=dc143c"/></div>
 
 ##  Contact
 
