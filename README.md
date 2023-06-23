@@ -1,6 +1,6 @@
 #  Hi, I am Marlin
 
-Hi, my name is Marlin and I'm 17. I started software development 1 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, HTLM, and CSS developer. 
+Hi, my name is Marlin and I'm 18. I started software development 1 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, HTLM, and CSS developer. 
 
 
 
